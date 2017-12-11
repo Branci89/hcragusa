@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hockey>
+	<types categoria="Prato">
+		<titolo>Hockey su Prato</titolo>
+		<descrizione>
+				Si gioca in un campo in erba sintetica, la pallina misura circa 23 cm
+				di circonferenza e ad affrontarsi sul campo sono due squadre di 11
+				giocatori. lo scopo del gioco è segnare un gol in più del proprio
+				avversario utilizzando un bastone ricurvo. nell'hockey su prato il
+				tiro può essere esercitato solo dall'interno dell'area di tiro.
+		</descrizione>
+		<media tipo="video">https://www.youtube.com/embed/NPnrKxFwInc</media>
+	</types >
+	<types categoria="Beach">
+		<titolo>Beach Hockey</titolo>
+		<descrizione>
+				la variante estiva dell'hockey su prato. 
+				Si gioca in spiaggia 3 giocatori contro 3 o 5 contro 5 in due tempi da 7'.
+				Con un bastone simile a quello da indoor e una palla dal diametro di circa 15 cm.
+		</descrizione>
+		<media tipo="video">https://www.youtube.com/embed/bnVAGn9FlYY</media>
+	</types>
+	<types categoria="Indoor">
+	<titolo>Hockey Indoor</titolo>
+		<descrizione>
+				una disciplina molto tecnica e veloce.
+				Una variante dell'hockey su prato giocata in palestre durante la stagione invernale.
+				Il campo è in linoleum con aree e porte di dimensioni inferiori rispetto all'outdoor.
+				Al posto delle linee laterali ci sono delle sponde che mantengono la palla sempre in campo.
+				Le squadre hanno 6 giocatori ciascuna e si gioca in  due tempi da 20'
+		</descrizione>
+		<media tipo="foto">Hockey-Indoor.jpg</media>
+	</types>
+</hockey>

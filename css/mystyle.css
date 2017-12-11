@@ -1,0 +1,306 @@
+body {
+	font-family: 'Titillium Web', sans-serif;
+	width: 90%;
+	margin: auto;
+	color: white;
+}
+
+h3 {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 33px;
+	font-weight: bold;
+}
+
+#logo_hockey {
+	width: 100px;
+}
+
+#titolo {
+	font-size: 33px;
+}
+
+.sost div {
+	width: 33%;
+	display: inline-block;
+	text-align: center;
+}
+
+.sost img {
+	width: 120px;
+}
+
+.mynav {
+	margin-top: 20px;
+}
+
+.w3-navbar {
+	font-size: 16px;
+	text-transform: uppercase;
+	position: relative;
+	top: 20px;
+	float: right;
+	padding-left: 55px;
+}
+
+.w3-navbar li {
+	width: 16%;
+	text-align: right;
+}
+
+.w3-navbar li a {
+	padding: 0px;
+}
+
+#social-btns {
+	width: 5%;
+}
+
+#social-btns a {
+	padding: 0px;
+}
+
+.partita {
+	padding: 5% 5% 10% 10%;
+	padding-right: 10%;
+}
+
+.hockyesta {
+	padding-right: 10%;
+	padding-top: 3%;
+}
+
+iframe {
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+.table {
+	text-align: left;
+}
+/*Velia*/
+.w3-row {
+	padding-top: 20px;
+	/*color: white;*/
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 17px;
+}
+
+#colonne {
+	font-size: 22px;
+	color: white;
+	float: right;
+	text-transform: lowercase;
+	width: 60.5%;
+}
+
+#seconda_colonna {
+	margin-left: 75px;
+}
+
+#colonne>div {
+	line-height: 1.1;
+}
+
+#clickable {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.articolo p {
+	font-size: 30px;
+	padding-top: 15px;
+	line-height: 1.1;
+}
+
+#nota {
+	font-size: 13px;
+}
+
+.elenco {
+	list-style-type: none;
+	float: left;
+	margin: 0px;
+	font-size: 13px;
+	text-transform: uppercase;
+	padding-left: 0px;
+}
+
+/*.elenco a{
+	text-decoration: none;
+}*/
+.link_utili {
+	list-style-type: none;
+	float: right;
+	margin: 0px;
+	font-size: 13px;
+	text-transform: uppercase;
+	padding-left: 0px;
+}
+
+.link_utili a {
+	text-decoration: none;
+}
+
+.dim {
+	width: 57%;
+	margin-top: 30px;
+	padding: 10px;
+	height: 450px;
+	margin-left: 5.5%;
+}
+
+.dim img {
+	/*height: 100%;*/
+	width: 100%;
+}
+
+/*Claudio*/
+.mobmenu {
+	list-style-type: none;
+	background-color: transparent;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+	/*margin: 0px;*/
+	padding-right: 10px;
+	display: none;
+	z-index: 30;
+	color: white;
+	text-align: right;
+}
+
+.mobmenu li {
+	margin-right: 20px;
+	margin-top: 15px;
+	padding: 10px 5px 10px 10px;
+}
+
+.mobmenu li:last-child {
+	margin-bottom: 0px;
+}
+
+.mobmenu li:first-child {
+	margin-top: 0px;
+}
+
+.mobmenu a {
+	text-decoration: none;
+}
+
+footer {
+	height: 70px;
+	background-color: transparent;
+	position: absolute;
+	width: 100%;
+	margin-top: 10px;
+	left: 0px;
+}
+
+#piva {
+	float: right;
+}
+
+footer>div {
+	color: inherit;
+	margin-left: 5%;
+	font-size: 13px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: whitesmoke;
+  color: black;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+
+/*Mobile PHONE*/
+@media screen and (max-width:480px) {
+	.dim {
+		width: 100%;
+		padding: 0px;
+		margin-left: 0px;
+	}
+	.dim a {
+		width: 100px;
+	}
+	#logo_hockey {
+		width: 100px;
+	}
+	.partita {
+		padding: 5% 5% 10% 10%;
+		padding-right: 10%;
+	}
+	.hockyesta {
+		padding: 10%;
+	}
+	.sost div {
+		width: 100%;
+		padding: 15px;
+		margin-top: 10px;
+	}
+	#colonne {
+		font-size: 13px;
+		color: white;
+		padding-left: 0px;
+		text-transform: lowercase;
+		width: 100%;
+	}
+	#seconda_colonna {
+		margin-left: 0px;
+	}
+	
+	footer{
+		position: relative;
+	}
+	
+	footer > div{
+		margin: 0px;
+	}
+	#piva {
+	float: left;
+	
+}
+}
+
+/*Mobile Tablet e landscape phone*/
+@media screen and (max-width:768px) {
+	.dim {
+		width: 100%;
+		padding: 0px;
+		margin-left: 0px;
+	}
+	.articolo {
+		width: 100%;
+	}
+	.sost div {
+		width: 100%;
+		padding: 15px;
+		margin-top: 10px;
+	}
+	#seconda_colonna {
+		margin-left: 0px;
+	}
+	
+	footer{
+		position: relative;
+	}
+	footer > div{
+		margin: 0px;
+	}
+	
+	#piva {
+	float: left;
+	
+}
+}

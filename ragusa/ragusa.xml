@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hockey>
+	<types categoria="mini">
+		<titolo>Mini Hockey</titolo>
+		<descrizione>
+			Il corso organizzato per tutti i ragazzi e le ragazze
+			dai
+			6 ai 10 anni in collaborazione con gli istituti scolastici del
+			territorio
+		</descrizione>
+		<visibile>1</visibile>
+		<media tipo="foto">HCR_mini.jpg</media>
+	</types>
+	<types categoria="junior">
+		<titolo>Hockey Junior</titolo>
+		<descrizione>
+			Il corso organizzato per tutti i ragazzi dai 10 ai 14
+			anni. Giocano i campionati federali di categoria di hockey su prato.
+			Se vuoi sapere come sta andando il campionato under 12 maschile
+			clicca &lt;a href="http://www.hockeyitaliano.net/campionati.php?id_torneo=1252&amp;embed=0" target="_blank" &gt;qui&lt;/a&gt;. Se vuoi sapere invece come sta andando quello under 14
+			maschile clicca &lt;a href="http://www.hockeyitaliano.net/campionati.php?id_torneo=1244&amp;embed=0" target="_blank" &gt;qui&lt;/a&gt;
+		</descrizione>
+		<visibile>1</visibile>
+		<media tipo="foto">HCR_junior.jpg</media>
+	</types>
+	<types categoria="senior">
+		<titolo>Hockey Senior</titolo>
+		<descrizione>
+			La squadra organizzata per tutti i ragazzi dai 16 anni in
+			poi. Gioca
+			il campionato italiano federale di serie B maschile di
+			&lt;a href="hockey.php"&gt;hockey su prato&lt;/a&gt;
+			e di hockey indoor.
+			Se vuoi sapere come sta andando il
+			campionato
+			clicca &lt;a href="http://www.hockeyitaliano.net/campionati.php?id_torneo=1220&amp;embed=0" target="_blank" &gt;qui&lt;/a&gt;
+		</descrizione>
+		<visibile>1</visibile>
+		<media tipo="foto">HCR_senior.jpg</media>
+	</types>
+	<types categoria="master">
+		<titolo>Hockey Master</titolo>
+		<descrizione>
+			La squadra organizzata per tutte le persone dai 40 anni
+			in su. Partecipano ai tornei maschili di hockey indoor over 40 e over
+			50
+		</descrizione>
+		<visibile>1</visibile>
+		<media tipo="foto">HCR_master.jpg</media>
+	</types>
+	<types categoria="campus_estivo">
+		<titolo>Campus Estivo</titolo>
+		<descrizione>
+			alla fine di ogni stagione organizziamo un campus
+			estivo
+			che permette a tutti i ragazzi della categoria
+			under 14 di fare
+			un'esperienza formativa con atleti
+			o allenatori provenienti dal mondo
+			professionistico.
+		</descrizione>
+		<visibile>0</visibile>
+		<media tipo="foto">campus_estivo.jpg</media>
+	</types>
+	<types categoria="campus_invernale">
+		<titolo>Campus Invernale</titolo>
+		<descrizione>
+			durante la stagione sportiva ci piace organizzare
+			un
+			campus invernale che permette a tutti i ragazzi
+			di fare un'esperienza
+			formativa con atleti o
+			allenatori provenienti dal mondo
+			professionistico
+		</descrizione>
+		<visibile>0</visibile>
+		<media tipo="foto">campus_invernale.jpg</media>
+	</types>
+	<types categoria="promozionali">
+		<titolo>Eventi Promozionali</titolo>
+		<descrizione>
+			Le pause dai campionati federali sono sempre stati un
+			buon momento per sperimentare. Lo abbiamo fatto organizzando l'indoor
+			hockey day torneo internazionale per club, lo street hockey week
+			torneo amatoriale di hockey su cemento e il beach hockey day
+		</descrizione>
+		<visibile>1</visibile>
+		<media tipo="foto">eventi_promozione.jpg</media>
+	</types>
+
+
+
+
+</hockey>

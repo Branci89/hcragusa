@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventi>
+	<partita>
+		<rif>partita20170414.png</rif>
+		<color>#c33149</color>
+	</partita>
+	<partita>
+		<rif>partita20170423.png</rif>
+		<color>#92dce5</color>
+	</partita>
+	<partita>
+		<rif>partita20170430.png</rif>
+		<color>#7dd181</color>
+	</partita>
+</eventi>
