@@ -12,7 +12,11 @@ $marchio = 'img/sostienici/marchio.png';
 .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after{
 	background-color: #8a8a8a;
 }
+footer{
+		bottom:0;
+	}
 </style>
+
 <script type="text/javascript">
 	$("#sostenitori").css("font-weight","bold");
 	$("body").css("color","#8a8a8a");
@@ -34,7 +38,7 @@ $marchio = 'img/sostienici/marchio.png';
 			aiutare.
 		</p>
 		<div id=nota class="w3-margin-top">
-			Se sei interessato ad aiutarci scrivici <a href="mailto:hockeyclubragusa@gmail.com" target="_blank">qui</a> per fare le tue proposte
+			Se sei interessato ad aiutarci scrivici <a href="mailto:hockeyclubragusa@gmail.com" target="_blank">qui</a> per presentare le tue proposte
 		</div>
 	</div>
 	<div class="w3-twothird" style="margin-top: 80px; text-align: center;">
@@ -49,10 +53,6 @@ $marchio = 'img/sostienici/marchio.png';
 		</div>
 	</div>
 </section>
-<style>
-	footer{
-		bottom:0;
-	}
-</style>
+
 <?php include 'footer.php';?>
 
