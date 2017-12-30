@@ -4,7 +4,7 @@
 	<types categoria="mini">
 		<titolo>Mini Hockey</titolo>
 		<descrizione>
-			Il corso organizzato per tutti i ragazzi e le ragazze
+			&#200; il corso organizzato per tutti i bambini e le bambine
 			dai
 			6 ai 10 anni in collaborazione con gli istituti scolastici del
 			territorio
@@ -15,9 +15,9 @@
 	<types categoria="junior">
 		<titolo>Hockey Junior</titolo>
 		<descrizione>
-			Il corso organizzato per tutti i ragazzi dai 10 ai 14
+			&#200; il corso organizzato per tutti i ragazzi dai 10 ai 14
 			anni. Giocano i campionati federali di categoria di hockey su prato.
-			Se vuoi sapere come sta andando il campionato under 12 maschile
+			Per scoprire come sta andando il campionato under 12 maschile
 			clicca &lt;a href="http://www.hockeyitaliano.net/campionati.php?id_torneo=1252&amp;embed=0" target="_blank" &gt;qui&lt;/a&gt;. Se vuoi sapere invece come sta andando quello under 14
 			maschile clicca &lt;a href="http://www.hockeyitaliano.net/campionati.php?id_torneo=1244&amp;embed=0" target="_blank" &gt;qui&lt;/a&gt;
 		</descrizione>
@@ -27,12 +27,12 @@
 	<types categoria="senior">
 		<titolo>Hockey Senior</titolo>
 		<descrizione>
-			La squadra organizzata per tutti i ragazzi dai 16 anni in
+			&#200; la squadra organizzata per tutti i ragazzi dai 16 anni in
 			poi. Gioca
 			il campionato italiano federale di serie B maschile di
 			&lt;a href="hockey.php"&gt;hockey su prato&lt;/a&gt;
-			e di hockey indoor.
-			Se vuoi sapere come sta andando il
+			e di &lt;a href="hockey.php"&gt;hockey indoor&lt;/a&gt;.
+			Per scoprire come sta andando il
 			campionato
 			clicca &lt;a href="http://www.hockeyitaliano.net/campionati.php?id_torneo=1220&amp;embed=0" target="_blank" &gt;qui&lt;/a&gt;
 		</descrizione>
@@ -42,7 +42,7 @@
 	<types categoria="master">
 		<titolo>Hockey Master</titolo>
 		<descrizione>
-			La squadra organizzata per tutte le persone dai 40 anni
+			&#200; la squadra organizzata per tutte le persone dai 40 anni
 			in su. Partecipano ai tornei maschili di hockey indoor over 40 e over
 			50
 		</descrizione>
@@ -52,7 +52,7 @@
 	<types categoria="campus_estivo">
 		<titolo>Campus Estivo</titolo>
 		<descrizione>
-			alla fine di ogni stagione organizziamo un campus
+			Alla fine di ogni stagione viene organizziamo un campus
 			estivo
 			che permette a tutti i ragazzi della categoria
 			under 14 di fare
@@ -66,7 +66,7 @@
 	<types categoria="campus_invernale">
 		<titolo>Campus Invernale</titolo>
 		<descrizione>
-			durante la stagione sportiva ci piace organizzare
+			Durante la stagione sportiva viene organizzato
 			un
 			campus invernale che permette a tutti i ragazzi
 			di fare un'esperienza
@@ -81,9 +81,9 @@
 		<titolo>Eventi Promozionali</titolo>
 		<descrizione>
 			Le pause dai campionati federali sono sempre stati un
-			buon momento per sperimentare. Lo abbiamo fatto organizzando l'indoor
-			hockey day, torneo internazionale per club, lo street hockey week,
-			torneo amatoriale di hockey su cemento e il beach hockey day
+			buon momento per sperimentare. Lo abbiamo fatto organizzando l'Indoor
+			Hockey Day, Torneo internazionale per club, il Summer Hockey Week,
+			torneo amatoriale di hockey su cemento e il Beach Hockey Day
 		</descrizione>
 		<visibile>1</visibile>
 		<media tipo="foto">eventi_promozione.jpg</media>

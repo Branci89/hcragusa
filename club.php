@@ -72,7 +72,7 @@ $marchio = 'img/marchio.png';
 				<p>
 					<b>Hockeisti dal 1994</b>
 				</p>
-				<table style="width: 100%">
+				<table class="mytable">
 					<tbody>
 						 <?php
 							$myfile = fopen ( "ragusa/hockeisti.txt", "r" ) or die ( "Unable to open file!" );					
