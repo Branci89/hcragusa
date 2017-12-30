@@ -67,9 +67,9 @@ body {
 
 
 	<div class="slider">
-		<div>
+		<!--  <div>
 			<div class="myslide" id="img1"></div>
-		</div>
+		</div>-->
 		<div>
 			<div class="myslide" id="img2"></div>
 		</div>

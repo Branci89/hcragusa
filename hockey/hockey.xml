@@ -7,8 +7,7 @@
 				Si gioca in un campo in erba sintetica, la pallina misura circa 23 cm
 				di circonferenza e ad affrontarsi sul campo sono due squadre di 11
 				giocatori. lo scopo del gioco è segnare un gol in più del proprio
-				avversario utilizzando un bastone ricurvo. nell'hockey su prato il
-				tiro può essere esercitato solo dall'interno dell'area di tiro.
+				avversario utilizzando un bastone ricurvo.
 		</descrizione>
 		<media tipo="video">https://www.youtube.com/embed/NPnrKxFwInc</media>
 	</types >
@@ -24,7 +23,7 @@
 	<types categoria="Indoor">
 	<titolo>Hockey Indoor</titolo>
 		<descrizione>
-				una disciplina molto tecnica e veloce.
+				
 				Una variante dell'hockey su prato giocata in palestre durante la stagione invernale.
 				Il campo è in linoleum con aree e porte di dimensioni inferiori rispetto all'outdoor.
 				Al posto delle linee laterali ci sono delle sponde che mantengono la palla sempre in campo.
