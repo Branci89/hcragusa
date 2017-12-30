@@ -44,9 +44,11 @@ include 'intestazione.php';
 				</p>
 				<br>
 				<p>
-					<b>social</b> <br> <a href="https://www.facebook.com/hcragusa/"
-						target="_blank">facebook.com/hcragusa</a> <br> <a
-						href="https://twitter.com/HCRagusa" target="_blank">twitter.com/HCRagusa</a>
+					<b>social</b>
+					<br>
+					<a href="https://www.facebook.com/hcragusa/"target="_blank">facebook.com/hcragusa</a> 
+					<br> 
+					<a href="https://instagram.com/HockeyClubRagusa/?hl=it" target="_blank">Instagram.com/HCRagusa</a>
 				</p>
 			</div>
 

@@ -29,10 +29,10 @@ body {
 				<li id="ragusa"><a href="ragusa.php">Ragusa</a></li>
 				<li style="width: 20%" id="sostenitori"><a href="sostienici.php">Sostenitori</a></li>
 				<li id="contatti"><a href="contatti.php">Contattaci</a></li>
-				<li style="width: 10%" id="social-btns"><a
+				<!-- <li style="width: 10%" id="social-btns"><a
 					href="https://twitter.com/HCRagusa"><img
-						src="img/slider/twitter.png"></a></li>
-				<li id="social-btns"><a
+						src="img/slider/twitter.png"></a></li> -->
+				<li id="social-btns" style="width: 15%"><a
 					href="https://instagram.com/HockeyClubRagusa/?hl=it"><img
 						src="img/slider/instagram.png"></a></li>
 				<li id="social-btns"><a href="https://www.facebook.com/hcragusa/"><img

@@ -11,9 +11,9 @@
 			<li id="ragusa"><a href="ragusa.php">Ragusa</a></li>
 			<li style="width: 20%" id="sostenitori"><a href="sostienici.php">Sostenitori</a></li>
 			<li id="contatti"><a href="contatti.php">Contattaci</a></li>
-			<li style="width: 10%" id="social-btns"><a href="https://twitter.com/HCRagusa" target="_blank"><img
-					src="<?php echo $twitter;?>"></a></li>
-			<li id="social-btns"><a
+			<!--  <li style="width: 10%" id="social-btns"><a href="https://twitter.com/HCRagusa" target="_blank"><img
+					src="<?php echo $twitter;?>"></a></li>-->
+			<li id="social-btns" style="width: 15%"><a
 				href="https://instagram.com/HockeyClubRagusa/?hl=it" target="_blank"><img
 					src="<?php echo $instagram;?>"></a></li>
 			<li id="social-btns"><a href="https://www.facebook.com/hcragusa/" target="_blank"><img

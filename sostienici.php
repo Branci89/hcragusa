@@ -19,15 +19,15 @@ footer{
 
 <script type="text/javascript">
 	$("#sostenitori").css("font-weight","bold");
-	$("body").css("color","#8a8a8a");
-	$(".mobmenu").css("color","#8a8a8a");
+	$("body").css("color","#b3b3b3");
+	$(".mobmenu").css("color","#b3b3b3");
 </script>
 
 <section class="w3-row w3-margin-top">
 	<div class="w3-third articolo">
 		<h3 id=titolo>Sostenitori</h3>
 		<p>
-			per promuovere l'hockey su prato
+			Per promuovere l'hockey su prato
 			e le attivit&agrave; a questo connesse,
 			al fine di mantenere vivo
 			l'interesse dei partecipanti

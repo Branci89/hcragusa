@@ -12,6 +12,6 @@ function salvaMail($nome,$email,$oggetto, $tempo, $testo){
 			."Contenuto: ".$testo."\n\n";
 	
 	$sentMail2 = wordwrap($sentMail2,70);
-	return mail("cbranci89@gmail.com", $oggetto,$sentMail2,$headers);
+	return mail("hockeyclubragusa@gmail.com", $oggetto,$sentMail2,$headers);
 }
 ?>
