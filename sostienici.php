@@ -49,7 +49,8 @@ footer{
 		</div>
 		<div class="w3-row sost" style="margin-top:25px;">
 		<div><a href="http://www.autoricambiocchipinti.com" target="_blank"><img style="width: 80%" alt="Autoricambi Occhipinti" src="img/sostienici/autoricambi.png" ></a></div>
-		<div><a href="http://www.informaticaragusa.it" target="_blank"><img style="width: 75%" alt="L'informatica" src="img/sostienici/linformatica.png" ></a></div>
+		<div><a href="https://www.facebook.com/iudicepasticcere/" target="_blank"><img style="width: 50%; position: relative; top: 45px" alt="Iudice Pasticcere" src="img/sostienici/iudice.png" ></a></div>
+		<div><a href="http://www.informaticaragusa.it" target="_blank"><img style="width: 75%;position: relative; bottom: 10px" alt="L'informatica" src="img/sostienici/linformatica.png" ></a></div>
 		</div>
 	</div>
 </section>

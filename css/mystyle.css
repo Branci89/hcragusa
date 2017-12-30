@@ -257,6 +257,12 @@ footer>div {
 		padding: 15px;
 		margin-top: 10px;
 	}
+	
+	.sost img {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+	
 	#colonne {
 		font-size: 13px;
 		color: white;
@@ -295,6 +301,10 @@ footer>div {
 		width: 100%;
 		padding: 15px;
 		margin-top: 10px;
+	}
+	.sost img {
+		margin-top: 40px;
+		margin-bottom: 40px;
 	}
 	#seconda_colonna {
 		margin-left: 0px;
