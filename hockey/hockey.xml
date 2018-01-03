@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 
 <hockey>
 	<types categoria="Prato">
@@ -6,7 +6,7 @@
 		<descrizione>
 				Si gioca in un campo in erba sintetica, la pallina misura circa 23 cm
 				di circonferenza e ad affrontarsi sul campo sono due squadre di 11
-				giocatori. Lo scopo del gioco è segnare un gol in più del proprio
+				giocatori. Lo scopo del gioco &amp;egrave; segnare un gol in pi&amp;ugrave; del proprio
 				avversario utilizzando un bastone ricurvo.
 		</descrizione>
 		<media tipo="video">https://www.youtube.com/embed/NPnrKxFwInc</media>
@@ -25,7 +25,7 @@
 		<descrizione>
 				
 				Una variante dell'hockey su prato giocata in palestre durante la stagione invernale.
-				Il campo è in linoleum con aree e porte di dimensioni inferiori rispetto all'outdoor.
+				Il campo &amp;egrave; in linoleum con aree e porte di dimensioni inferiori rispetto all'outdoor.
 				Al posto delle linee laterali ci sono delle sponde che mantengono la palla sempre in campo.
 				Le squadre hanno 6 giocatori ciascuna e si gioca in due tempi da 20 minuti.
 		</descrizione>

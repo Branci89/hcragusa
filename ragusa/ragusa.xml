@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<!-- Mega super bug fix 
+	serve quella cazzo di merda di cosa per fare una e con l'accento &amp;Egrave;
+ -->
 <hockey>
 	<types categoria="mini">
 		<titolo>Mini Hockey</titolo>
 		<descrizione>
-			&#200; il corso organizzato per tutti i bambini e le bambine
+			&amp;Egrave; il corso organizzato per tutti i bambini e le bambine
 			dai
 			6 ai 10 anni in collaborazione con gli istituti scolastici del
 			territorio.
@@ -15,7 +17,7 @@
 	<types categoria="junior">
 		<titolo>Hockey Junior</titolo>
 		<descrizione>
-			&#200; il corso organizzato per tutti i ragazzi dai 10 ai 14
+			&amp;Egrave; il corso organizzato per tutti i ragazzi dai 10 ai 14
 			anni. Giocano i campionati federali di categoria di hockey su prato.
 			Per scoprire come sta andando il campionato under 12 maschile
 			clicca &lt;a href="http://www.hockeyitaliano.net/campionati.php?id_torneo=1252&amp;embed=0" target="_blank" &gt;qui&lt;/a&gt;. Se vuoi sapere invece come sta andando quello under 14
@@ -27,7 +29,7 @@
 	<types categoria="senior">
 		<titolo>Hockey Senior</titolo>
 		<descrizione>
-			&#200; la squadra organizzata per tutti i ragazzi dai 16 anni in
+			&amp;Egrave; la squadra organizzata per tutti i ragazzi dai 16 anni in
 			poi. Gioca
 			il campionato italiano federale di serie B maschile di
 			&lt;a href="hockey.php"&gt;hockey su prato&lt;/a&gt;
@@ -42,7 +44,7 @@
 	<types categoria="master">
 		<titolo>Hockey Master</titolo>
 		<descrizione>
-			&#200; la squadra organizzata per tutte le persone dai 40 anni
+			&amp;Egrave; la squadra organizzata per tutte le persone dai 40 anni
 			in su. Partecipano ai tornei maschili di hockey indoor over 40 e over
 			50.
 		</descrizione>
