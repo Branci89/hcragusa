@@ -7,7 +7,7 @@
 <meta name="keywords" content="Hockey,Prato,Ragusa,Field">
 <meta name="author" content="Claudio Branciforte">
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset=iso-8859-1">
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <link rel="stylesheet" href="css/w3.css">
@@ -21,3 +21,13 @@
 
 <title><?php echo $titolo_pagina;?></title>
 </head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113325124-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113325124-1');
+</script>
+
