@@ -7,32 +7,32 @@
 }
 
 #img1 {
-	background-image: url('../img/slider/img_1.jpg');
+	background-image: url('../img/slider/HCR_azione_1.jpg');
 }
 
 #img2 {
-	background-image: url('../img/slider/img_2.jpg');
+	background-image: url('../img/slider/HCR_azione_2.jpg');
 }
 
 #img3 {
-	background-image: url('../img/slider/img_3.jpg');
+	background-image: url('../img/slider/HCR_azione_3.jpg');
 }
 
 #img4 {
-	background-image: url('../img/slider/img_4.jpg');
+	background-image: url('../img/slider/HCR_azione_4.jpg');
 }
 
 @media screen and (max-width:480px) {
 	#img1 {
-		background-image: url('../img/slider/img_1_mobile.jpg');
+		background-image: url('../img/slider/HCR_azione_1_mob.jpg');
 	}
 	#img2 {
-		background-image: url('../img/slider/img_2_mobile.jpg');
+		background-image: url('../img/slider/HCR_azione_2_mob.jpg');
 	}
 	#img3 {
-		background-image: url('../img/slider/img_3_mobile.jpg');
+		background-image: url('../img/slider/HCR_azione_3_mob.jpg');
 	}
 	#img4 {
-		background-image: url('../img/slider/img_4_mobile.jpg');
+		background-image: url('../img/slider/HCR_azione_4_mob.jpg');
 	}
 }
