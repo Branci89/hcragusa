@@ -43,12 +43,12 @@ body {
 	<header
 		style="z-index: 30; background-color: transparent; position: fixed; width: 100%;"
 		class="w3-row myheader w3-hide-large">
-		<nav class="w3-row">
+		<nav class="w3-row" style="padding-top: 0px;">
 			<a title="home" href="index.php"> <img id="logo_hockey"
 				class="w3-quarter" alt="Logo Elisa" src="img/marchio.png"
-				style="margin-left: 10%;"></a>
+				style="margin-left: 5%;"></a>
 			<button class="hamburger hamburger--spring" type="button"
-				style="float: right; margin-right: 10%">
+				style="float: right; margin-right: 5%">
 				<span class="hamburger-box"> <span class="hamburger-inner"></span>
 				</span>
 			</button>
