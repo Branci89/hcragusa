@@ -15,7 +15,7 @@ body {
 <body>
 
 	<header
-		style="position: absolute; z-index: 30; width: 80%; margin-left: 10%;"
+		style="position: absolute; z-index: 30; width: 90%; margin-left: 5%;"
 		class="w3-hide-small w3-hide-medium">
 		<nav class="w3-row mynav">
 			<div class="w3-third">
